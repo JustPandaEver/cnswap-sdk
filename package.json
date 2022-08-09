@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap-libs/sdk",
+  "name": "@cnswap/sdk",
   "license": "MIT",
   "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of pancakeswap.",
@@ -8,10 +8,11 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
+  "repository": "https://github.com/JustPandaEver/cnswap-sdk.git",
   "keywords": [
     "pancakeswap",
-    "ethereum"
+    "ethereum",
+    "cnswap"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
